@@ -1,0 +1,18 @@
+/* CSS rule */
+
+body { /* selector */
+    margin: 0; /* css property value */
+    border-color:red;
+    border-width: 12px;
+    border-style: dashed;
+
+    /* the border proprierty shorthand (solid is the default)*/
+    border: 10px solid pink;
+
+}
+
+/*css rule */
+p { /* selector */
+    color:pink; /*declaration : propery value*/
+    font-size: 20px;
+}
